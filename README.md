@@ -12,7 +12,7 @@ This repository contains a short IEEE-format report that summarizes three publis
 * **Lane Line Detection** — Javeed et al. (2023). Gaussian blur, Otsu threshold, Sobel/Canny edges, and fast Hough transform. Suitable features: intensity, edges, straight lines
 ## Files
  
-* `IEEE_Report_Three_Image_Processing_Cases.docx` — the report
+* `PCD_Assignment04.pdf` — the report
 ## Notes
  
 This is a summary report only. No experiments were rerun, so all numbers come from the three articles, and the figures were redrawn from the tables in those articles.
